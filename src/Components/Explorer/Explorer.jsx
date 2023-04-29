@@ -20,7 +20,7 @@ export default function Explorer(){
     <div className="toggleResponsiveDesktop">
         <header id="desktop">
             <nav id="boxDesktop">
-                <img src="./img/Cláudia Alves.png" alt="" />
+                <img src={LogoSite} alt="" />
                 <ul>
                     <li>Home</li>
                     <li>Home</li>
