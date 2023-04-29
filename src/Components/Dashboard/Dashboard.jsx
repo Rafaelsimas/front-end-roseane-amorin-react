@@ -53,30 +53,32 @@ export default function Dashboard() {
               <strong>Unha negra</strong>
             </div>
             <div className="description-card">
-              <p>
                 <p>
                   Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                   Similique ipsum quaerat aspernatur alias obcaecati
-                  
-                </p>
               </p>
+              <div className="price-service">
+              <strong>R$ 20,00</strong>
+              </div>
             </div>
           </li>
+
           <li className="image-offers">
             <img
-              src="https://images.unsplash.com/photo-1604654894610-df63bc536371?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dW5oYXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+              src="https://images.unsplash.com/photo-1519014816548-bf5fe059798b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dW5oYXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
               alt=""
             />
             <div className="title-card">
-              <strong>Unha negra</strong>
+              <strong>Vermelho marcante</strong>
             </div>
             <div className="description-card">
-              <p>
                 <p>
                   Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                   Similique ipsum quaerat aspernatur alias obcaecati
-                </p>
               </p>
+              <div className="price-service">
+                <strong>R$ 20,00</strong>
+              </div>
             </div>
           </li>
         </ul>

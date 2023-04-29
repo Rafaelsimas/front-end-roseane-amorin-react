@@ -1,5 +1,6 @@
 .container-home{
     padding: 1.5rem;
+    width: 100%;
 }
 
 
@@ -69,6 +70,7 @@ ion-icon{
 .container-offers{
     padding: 0.3rem;
     padding-top: 60px;
+    height: 450px;
 }
 
 .container-offers h2{
@@ -85,6 +87,7 @@ ion-icon{
 }
 .image-offers{
     width: 250px;
+    height: 450px;
 }
 .image-offers img{
     width: 250px;
@@ -92,6 +95,22 @@ ion-icon{
     object-fit: cover;
     border-radius: 15px;
 }
+
+
+.image-offers .description-card{
+    position: relative;
+    height: 100px;
+}
+
+.image-offers .description-card p{
+    font-weight: 100;
+}
+
+.image-offers .price-service{
+    position: absolute;
+    bottom: -19px;
+}
+
 /* =======================POPULAR SERVICE=========================== */
 .list-popular-services{
     display: flex;
